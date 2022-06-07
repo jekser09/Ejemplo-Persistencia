@@ -1,0 +1,13 @@
+objeto: aplicacion para gestionar contactos con la informacion nombre, telefono, correo y favorito
+
+presentara opcion de crear, buscar, eliminar y listar los contactos
+persistira la informacion en un archivo
+
+el autor
+---------
+la aplicacion define 4 usos basicos como son:
+crear un contacto, guardar un nuevo nombre, telefono, correo y favorito en persistencia.
+editar un contacto, buscar un contacto(identidificador unico) y cambiar algun dato(nombre,telefono,correo y favorito)
+borrar un contacto, buscar un contacto(identidificador unico) y eliminar los datos de persistencia
+listar los contactos, leo todos los datos del archivo y los visualiza en una tabla o lista
+*generar un identidificador unico
